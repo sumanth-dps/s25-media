@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.465b0b87.css",
+    "main.js": "/static/js/main.f4d35d48.js",
+    "static/js/453.e57c3d92.chunk.js": "/static/js/453.e57c3d92.chunk.js",
+    "static/media/Hoyna_Hoyna_song.mp4": "/static/media/Hoyna_Hoyna_song.b4a6dad876391b42a713.mp4",
+    "static/media/Hoyna_Hoyna.mp3": "/static/media/Hoyna_Hoyna.c014a814a1a85c65222b.mp3",
+    "static/media/gangleader.jpg": "/static/media/gangleader.2726028e20ac468d0722.jpg",
+    "index.html": "/index.html",
+    "main.465b0b87.css.map": "/static/css/main.465b0b87.css.map",
+    "main.f4d35d48.js.map": "/static/js/main.f4d35d48.js.map",
+    "453.e57c3d92.chunk.js.map": "/static/js/453.e57c3d92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.465b0b87.css",
+    "static/js/main.f4d35d48.js"
+  ]
+}
